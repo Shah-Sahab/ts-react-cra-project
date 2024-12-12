@@ -18,7 +18,8 @@
     "@types/react-dom": "^19.0.2",
     "lodash": "^4.17.21",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
